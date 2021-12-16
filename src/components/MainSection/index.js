@@ -10,7 +10,7 @@ import {
     ArrowForward,
     ArrowRight
 } from './MainElements';
-import { Button } from '../../components/ButtonElement';
+import { Button } from '../ButtonElement';
 import Video from '../../video/video.mp4';
 
 function MainSection() {

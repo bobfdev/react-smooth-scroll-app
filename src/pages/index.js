@@ -2,6 +2,8 @@ import { useState } from 'react';
 import Sidebar from '../components/Sidebar';
 import Navbar from '../components/Navbar';
 import MainSection from '../components/MainSection';
+import InfoSection from '../components/InfoSection';
+import { homeObjOne } from '../components/InfoSection/InfoData';
 
 function Home() {
     // Sidebar is set to closed by default
@@ -16,6 +18,7 @@ function Home() {
          <Sidebar isOpen={isOpen} toggle={toggle} />
          <Navbar toggle={toggle} />   
          <MainSection />
+         <InfoSection {...homeObjOne}/>
         </>
     )
 }
