@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-smooth-scroll-app/static/css/main.3e0ae681.css",
+    "main.js": "/react-smooth-scroll-app/static/js/main.047bc0e7.js",
+    "static/media/video.mp4": "/react-smooth-scroll-app/static/media/video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/undraw1.svg": "/react-smooth-scroll-app/static/media/undraw1.4ad3778f0755bb293f2f978886a8e0e8.svg",
+    "static/media/undraw2.svg": "/react-smooth-scroll-app/static/media/undraw2.0cae9af5edfa0a0a94e9e5b465eb1bd9.svg",
+    "static/media/undraw3.svg": "/react-smooth-scroll-app/static/media/undraw3.c3f369134cd43241ca586c5df6ef367e.svg",
+    "index.html": "/react-smooth-scroll-app/index.html",
+    "main.3e0ae681.css.map": "/react-smooth-scroll-app/static/css/main.3e0ae681.css.map",
+    "main.047bc0e7.js.map": "/react-smooth-scroll-app/static/js/main.047bc0e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e0ae681.css",
+    "static/js/main.047bc0e7.js"
+  ]
+}
