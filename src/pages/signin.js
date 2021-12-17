@@ -1,9 +1,13 @@
-function SignIn() {
+import ScrollToTop from '../components/ScrollToTop';
+import SignIn from '../components/SignIn';
+
+function SignInPage() {
     return (
         <div>
-            <h1>Sign In</h1>
+            <ScrollToTop />    
+            <SignIn />
         </div>
     )
 }
 
-export default SignIn
+export default SignInPage
